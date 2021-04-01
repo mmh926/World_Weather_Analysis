@@ -1,0 +1,14 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Description
+0,Iskateley,67.6803,53.1512,26.69,96,100,6.96,RU,overcast clouds
+1,Newport,51.5877,-2.9984,50.0,88,58,7.45,GB,broken clouds
+2,Clyde River,70.4692,-68.5914,-13.0,77,20,11.5,CA,few clouds
+3,Mount Gambier,-37.8333,140.7667,78.8,31,65,12.66,AU,broken clouds
+4,Sabang,5.8933,95.3214,80.94,80,100,27.67,ID,overcast clouds
+5,Novyy Urengoy,66.0833,76.6333,-4.0,82,98,18.05,RU,overcast clouds
+6,Nemuro,43.3236,145.575,48.2,53,20,11.5,JP,few clouds
+7,Praia,14.9215,-23.5087,68.0,77,75,12.66,CV,broken clouds
+8,Talcahuano,-36.7167,-73.1167,57.2,94,0,5.75,CL,clear sky
+9,Tupik,54.4253,119.9327,28.27,63,78,1.63,RU,broken clouds
+10,Comodoro Rivadavia,-45.8667,-67.5,55.4,76,90,4.61,AR,light rain
+11,Genhe,50.7833,121.5167,36.68,64,98,0.76,CN,overcast clouds
+12,Belem De Sao Francisco,-8.7539,-38.9658,80.2,61,99,2.19,BR,heavy intensity rain
