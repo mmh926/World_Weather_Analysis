@@ -1,8 +1,8 @@
-# World_Weather_Analysis
+# World_Weather_Analysis ReadMe
 
 BY: MONICA HOLMES
 04/04/2021
-MODULE 6 CHALLENGE README
+
 
 
 PURPOSE
@@ -23,7 +23,7 @@ Here's an outline of my project plan:
 •	Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
 
-Mod 6 Challenge Deliverables 
+ Challenge Deliverables 
 
 
 Deliverable 1: Retrieve Weather Data:
